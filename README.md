@@ -1,6 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,40:1e40af,75:0e7490,100:0d1117&height=210&section=header&text=Anchal%20Verma&fontSize=50&fontColor=e2e8f0&animation=twinkle&fontAlignY=36&desc=SDE%20II%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descAlignY=57&descSize=14)](https://github.com/AnchalVerma33)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Designing+backend+systems+that+don%27t+fall+over+%F0%9F%9A%80;Kafka+%E2%80%A2+CQRS+%E2%80%A2+Event-Driven+ETL+%E2%80%A2+Distributed+Systems;Currently+building+a+Redis+server+from+scratch+in+Java)](https://github.com/AnchalVerma33)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Designing+backend+systems+that+don%27t+fall+over+%F0%9F%9A%80;Kafka+%E2%80%A2+CQRS+%E2%80%A2+Event-Driven+ETL+%E2%80%A2+Distributed+Systems;Currently+building+a+Redis+server+from+scratch+in+Java)](https://github.com/AnchalVerma33)
 
 ---
 
